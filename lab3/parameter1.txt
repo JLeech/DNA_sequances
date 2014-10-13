@@ -1,0 +1,11 @@
+0; gap
+-1; insert/delete
+
+; Alphabet
+a c g t
+
+;Similarity matrix for the alphabet
+2 -1 -1 -1
+-1 2 -1 -1
+-1 -1 2 -1
+-1 -1 -1 2
