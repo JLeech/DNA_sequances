@@ -1,0 +1,7 @@
+score = 3
+
+>seq1
+-acaatcg-
+
+>seq2
+ctc-at-gc

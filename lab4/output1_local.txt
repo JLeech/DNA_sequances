@@ -1,0 +1,14 @@
+score = 6
+
+>seq1
+caatcg
+
+>seq2
+c_at_g
+
+
+>seq1
+acaatcg
+
+>seq2
+ctcatgc

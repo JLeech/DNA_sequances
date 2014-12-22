@@ -74,11 +74,33 @@ class VunshPH # считает по методу оптимальной памя
         end
 
         row_pos = ((down_row + top_row) / 2.0 ).floor
-        @result[row_pos],column = get_max_on_row(@matrix.row(row_pos).to_a)
-        puts @result
-        count_mem(top_row,top_column,row_pos,column)
-        count_mem(row_pos,column,down_row,down_column)
+        if @result.keys.include?(row_pos)
 
+        else
+            count_matrix_row(row_pos,down_column)
+            @result[row_pos],column = get_max_on_row(@matrix.row(row_pos).to_a)
+            #puts @result
+            count_mem(top_row,top_column,row_pos,column)
+            count_mem(row_pos,column,down_row,down_column)
+        end
+    end
+
+    def count_matrix_row(row_pos,down_column)
+
+        fir_row = []
+        sec_row = [0]
+        for i in 0..down_column
+            fir_row.push(i * @seeker.limits.gap)
+        end
+        for col in 1..row_pos
+            diff = @seeker.limits.penalty[@seeker.seq1[0]][@seeker.seq2[col]].to_i
+            up = fir_row[col] + diff
+            left = sec_row[col-1] + diff
+            diag = fir_row[col-1] + diff
+            sec_row.push([up,left,diag].max) 
+        end
+        puts "fr: #{fir_row}"
+        puts "sc: #{sec_row}"
     end
 
     def get_max_on_row(row)
@@ -90,6 +112,8 @@ class VunshPH # считает по методу оптимальной памя
         end
         return [max,place]
     end
+
+
 
     #заполняется первая строка и столбец
     def start_gap_fill()

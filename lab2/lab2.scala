@@ -16,7 +16,8 @@ object Sequences{
 			case (Nil,seq_mark) => result
 		}
 	}	
-}	
+}
+
 //это класс который содержит последовательности
 class Sequences private (values: List[String], str : String) {
 	var seq1 = values(0).replace(" ","")
@@ -89,67 +90,3 @@ val limits = new Parameters(limits_lines)
 
 println ("alphabet: "+limits.alphabet)
 println ("matrix: "+limits.matrix)
-/*
-def fill_gap(matrix())
-
-def fill_matrix( matrix : List[List[Int]], sequences : Sequences ,raw : Int, column : Int) : List[Int][Int] ={
-	(matrix,sequences,raw,column) match {
-		case (matrix,sequences,0,0) => fill_matrix(fill_gap(matrix,sequences),sequences,1,1)
-	}
-}
-
-var aaa =  Map[ String, Map[String, Int]]()
-var zzz =  Map[ String, Int]()
-zzz = zzz + ("aaa" -> 10)
-aaa = aaa + ("zzz"-> zzz)
-aaa = aaa + (aaa("zzz") + ("bbb" -> 10))
-println(aaa("zzz")("bbb"))
-*/
-
-/*
-println(limits.gap)
-println(limits.del_ins)
-println(limits.alphabet)
-println(limits.matrix)
-
-
-var aaa = Map[ String, Map[String,String] ]()
-var zzz = Map[String,String]()
-
-zzz = zzz + ("aa" -> "bb")
-aaa = aaa + ("zz" -> zzz)
-*/
-//println(zzz("aa"))
-//println(aaa("zz")("aa"))
-
-
-
-//val limits = 
-/*
-
-
-var Ha:Map[String,String] = Map()
-
-Ha +=("a" -> "b")
-println(Ha("a"))
-
-for (line <- scala.io.Source.fromFile("./input1.txt").getLines()){
-	print("["+line+"]")
-	(line) match {
-		case () => out
-	}
-}
-
-case (out,List()) => out
-
-var lines = scala.io.Source.fromFile("./input1.txt").getLines()
-
-lines.foreach(println)
-
-def seq(s : String) = s.trim.endsWith("seq1")
-
-//println(lines.toList.find(s => seq(s)))
-
-val leters = List("AA","BB","CC")
-
-println(leters.find(c => seq(c)))*/

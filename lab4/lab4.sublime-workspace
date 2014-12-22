@@ -1,0 +1,547 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reve",
+				"reverse"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"seq",
+				"seq2_iter"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"comman",
+				"command2"
+			],
+			[
+				"EA",
+				"EACH"
+			],
+			[
+				"req",
+				"require_relative"
+			],
+			[
+				"co",
+				"commands"
+			],
+			[
+				"dow",
+				"down_row"
+			],
+			[
+				"to",
+				"top_column"
+			],
+			[
+				"colu",
+				"column_count-1"
+			],
+			[
+				"count",
+				"count_mem"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"row",
+				"row_pos"
+			],
+			[
+				"get",
+				"get_max_on_row"
+			],
+			[
+				"top",
+				"top_row"
+			],
+			[
+				"cou",
+				"count_mem"
+			],
+			[
+				"left",
+				"left_down"
+			],
+			[
+				"vuns",
+				"vunsh"
+			],
+			[
+				"z",
+				"zeroing"
+			],
+			[
+				"tr",
+				"triangle"
+			],
+			[
+				"mat",
+				"matr"
+			],
+			[
+				"ha",
+				"hause_matrix"
+			],
+			[
+				"haus",
+				"global_hause_matrix"
+			],
+			[
+				"lo",
+				"local_hause_matrix"
+			],
+			[
+				"hau",
+				"hause_vec"
+			],
+			[
+				"sub",
+				"sub_matrix"
+			],
+			[
+				"max",
+				"max_list"
+			],
+			[
+				"coutn",
+				"count_matrix_water"
+			],
+			[
+				"print",
+				"print_matrix"
+			],
+			[
+				"limi",
+				"limits"
+			],
+			[
+				"str",
+				"start_gap_fill"
+			],
+			[
+				"seq1",
+				"seq1_iter"
+			],
+			[
+				"se2",
+				"seq2_iter"
+			],
+			[
+				"di",
+				"diag"
+			],
+			[
+				"prin",
+				"print_matrix"
+			],
+			[
+				"sq",
+				"seq1_iter"
+			],
+			[
+				"seq2",
+				"seq2_iter"
+			],
+			[
+				"se",
+				"seq1"
+			],
+			[
+				"s",
+				"seeker"
+			],
+			[
+				"ra",
+				"raw_lines"
+			],
+			[
+				"S",
+				"String"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"fill",
+				"fill_gap"
+			],
+			[
+				"sequ",
+				"sequences"
+			],
+			[
+				"seque",
+				"Sequences"
+			],
+			[
+				"take",
+				"take_n_str"
+			],
+			[
+				"del",
+				"del_n_str"
+			],
+			[
+				"a",
+				"alphabet"
+			],
+			[
+				"line",
+				"line"
+			],
+			[
+				"lines",
+				"lines"
+			],
+			[
+				"Li",
+				"List"
+			],
+			[
+				"ma",
+				"match	match"
+			],
+			[
+				"prt",
+				"println"
+			],
+			[
+				"prit",
+				"println"
+			],
+			[
+				"li",
+				"limits"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"limit",
+				"limits_lines"
+			],
+			[
+				"ta",
+				"tail"
+			],
+			[
+				"tak",
+				"take_value"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"n",
+				"n_seq1"
+			],
+			[
+				"find",
+				"find_seq"
+			],
+			[
+				"for",
+				"foreach"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lab4.rb",
+			"settings":
+			{
+				"buffer_size": 6741,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "README",
+			"settings":
+			{
+				"buffer_size": 1370,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 222.0,
+		"selected_items":
+		[
+			[
+				"togg",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/home/eve/Документы/chem_lab/lab3/lab3.rb",
+		"/home/eve/Документы/ps_course/tokens.rb",
+		"/home/eve/Документы/ps_course/lexer.rb",
+		"/home/eve/Документы/ps_course/commands.txt",
+		"/home/eve/Документы/ps_course/flags.txt",
+		"/home/eve/Документы/chisl_lab/lab2.rb",
+		"/home/eve/Документы/counting_lab/givens.rb",
+		"/home/eve/Документы/counting_lab/hausholder.rb",
+		"/home/eve/Документы/chisl_lab/lab1.rb",
+		"/home/eve/Документы/chisl_lab/lab3.rb",
+		"/home/eve/Документы/chisl_lab/lab6.rb",
+		"/home/eve/Документы/chisl_lab/lab4.rb",
+		"/home/eve/Документы/chisl_lab/lab5.rb",
+		"/home/eve/Документы/chem_lab/lab2/lab2.rb",
+		"/home/eve/Документы/chem_lab/limits.rb",
+		"/home/eve/Документы/comp_lab/lab5.rb",
+		"/home/eve/Документы/chem_lab/lab3.rb",
+		"/home/eve/Документы/chem_lab/lab3/input1.txt",
+		"/home/eve/Документы/chem_lab/lab3/limits.rb",
+		"/home/eve/Документы/chem_lab/lab3/parameter1.txt",
+		"/home/eve/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/eve/.config/sublime-text-3/Packages/User/Distraction Free.sublime-settings",
+		"/home/eve/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/eve/Документы/chem_lab/output1_global.txt",
+		"/home/eve/Документы/chem_lab/lab1/lab1.rb",
+		"/home/eve/Документы/chem_lab/input2.txt",
+		"/home/eve/Документы/chem_lab/input1.txt",
+		"/home/eve/Документы/chem_lab/parameter1.txt",
+		"/home/eve/Документы/chem_lab/input3.txt",
+		"/home/eve/Документы/chem_lab/lab2/lab2.scala",
+		"/home/eve/Документы/chem_lab/lab1.rb",
+		"/home/eve/Документы/scala_lab/lab_mil.scala",
+		"/home/eve/Документы/chem_lab/parameter2.txt",
+		"/home/eve/Документы/scala_lab/lab2.scala",
+		"/home/eve/Документы/scala_lab/lab1.scala",
+		"/home/eve/Документы/chem_lab/sequences.scala",
+		"/home/eve/Документы/chem_lab/lab2.scala",
+		"/home/eve/Рабочий стол/BinaryHeap.scala",
+		"/home/eve/Документы/scala_lab/lab3.scala",
+		"/home/eve/Документы/scala_lab/lexer.scala"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"arghas_insertion",
+			"menu",
+			"require",
+			"end",
+			"matrix_vunsh",
+			"matrix",
+			"max",
+			"sequences",
+			"GLLIALALL CLFSLAEANS KAITTSLTTK WFSAPLLLEA SEFLAEDSQE KFWSFVEASQNIGSSDQHDT DRSYYDAILE AAFRLLSPLQ QNLLKKSLSL RSYSASIQAF QQIAVDEPPPEGCKSFLSVH GKQTCDLGTL ESLLLTAPDR PKPLLFKGDR RYPSSNPESP VVIFYSEIGHEEFSNIHHQL ISKSNEGKIN YVFRHYISNP RKEPVHLSGY GVELAIKSTE YKAKDDTQVKGTEVNTTVIG ENDPIDEVQG FLFGKLRELY PSLEGQLKEF RKHLVESTNE MAPLKVWQLQDLSFQTAARI LAAPVELALV VMKDISQNFP TKARAITKTA VSAQLRAEVE ENQKYFKGTIGLRPGDSALF INGLHIDLGN QDIFSLFDTL RNEARVMEGL HRLGIEGLSL HNILKLNIQPSETDYAVDIR SPAISWVNNL EVDSRYNSWP SSLQELLRPT FPGVIRQIRK NLHNMVFIVDPVHETTAELV SIAEMFLSNH IPLRIGFIFV VNDSEDVDGM QDAGVAVLRA YNYVGQEVDGYHAFQTLTQI YNKVRTGEKV KVEHVVSVLE KKYPYVEVNS ILGIDSAYDQ NRKEARGYYEQTGVGPLPVV LFNGMPFEKE QLDPDELETI TMHKILETTT FFQRAVYLGE LSHDQDVVEYIMNQPNVVPR INSRILTAKR EKLDLTASNN FYVDDFARFS ALDSRGKTAA IANSMNYLTKKDDSFIRPVT FWIVGDFDSP SGRQLLYDAI KHQKTSNNVR ITMINNPSRE ISDSSTPVSRAIWAALQTQT SNSAKNFITK MVKEETAEAL AAGVDIGEFS VGGMDVSLFK EVFESSRMDFILSHALYCRD VLKLKKGQRV VISNGRIIGP LEDSELFNQD DFHLLENIIL KTSGQKIKSHIQQLRVEEDA ASDLVMKVDA LLSAQPKGEA RIEYQFFEDK HSAIKLKPKE GETYYDVVAVVDPVTREAQR LAPLFLVLAQ LINMSLRVFM NCQSKLSDMP LKSFYRYVLE PEISFTADNSFAKGPIAKFL DMPQSPLFTL NLNTPESWMV ESVRTPYDLD NIYLEEVDSI VAAEYELEYLLLEGHCYDIT TGQPPRGLQF TLGTSANPTT VDTIVMANLG YFQLKANPGA WILRLRKGRSDDIYRIYSHD GTDSPPDAND VVVILNNFKS KIIKVKVQKK ADMANEDLLS DGTNENESGFWDSFKWGFSG QKTEEVKQDK DDIINIFSVA SGHLYERFLR IMMLSVLKNT KTPVKFWFLKNYLSPTFKEF IPYMAKKYNF QYELVQYKWP RWLHQQTEKQ RIIWGYKILF LDVLFPLVVDKFLFVDADQI VRTDLKELRD FNLDGAPYGY TPFCDSRREM DGYRFWKSGY WASHLAGRKYHISALYVVDL KKFRKIAAGD RLRGQYQGLS QDPNSLSNLD QDLPNNMIHQ VPIKSLPQEWLWCETWCDDA SKKRAKTIDL CNNPMTKEPK LEAAVRIVPE WQDYDQEIKQ LQTLFQEEKELGTLHEEETQ EGSQKHEEL",
+			"breaks"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lab4.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4721,
+								4721
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1305.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "README",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								870,
+								870
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "lab4.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 214.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
