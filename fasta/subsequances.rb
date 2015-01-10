@@ -11,7 +11,6 @@ class Sequance
 	def count_triples
 		@data.split("").each_with_index do |start,iter| 
 			break if iter >= (@data.length-2) 
-				
 			triple = "#{@data[iter]}#{@data[iter+1]}#{@data[iter+2]}"
 			if triples[triple] == nil
 				triples[triple] = data.enum_for(:scan, /#{triple}/).map { Regexp.last_match.begin(0) }
@@ -22,6 +21,7 @@ end
 
 class Subsequances
 
+	attr_accessor :main_sequance
 	attr_accessor :sequances
 	attr_accessor :raw_lines
 
@@ -29,6 +29,13 @@ class Subsequances
 		@raw_lines = IO.readlines(file)
 		@sequances = []
 		process_lines
+		delete_unmatch_sequances
+	end
+
+	def delete_unmatch_sequances
+		@sequances.each_with_index do |seq,index|
+			@sequances.delete_at(index) if ((seq.triples.keys & main_sequance.triples.keys).empty?)
+		end
 	end
 
 	def process_lines
@@ -50,6 +57,8 @@ class Subsequances
 				end
 			end
 		end
+		@main_sequance = @sequances.first
+		@sequances.delete_at(0)
 	end
 
 end	
