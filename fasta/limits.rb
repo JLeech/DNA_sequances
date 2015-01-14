@@ -1,6 +1,7 @@
 class Limits
     attr_accessor :alphabet
     attr_accessor :penalty
+    attr_accessor :gap
 
     attr_accessor :raw_lines
 
@@ -10,6 +11,7 @@ class Limits
         raw_lines.delete_if { |line| line.start_with?("#")}
         get_alphabet
         get_matrix
+        get_gap
     end
 
     private
@@ -17,6 +19,10 @@ class Limits
     def get_alphabet
         @alphabet = raw_lines.first.split(" ")
         raw_lines.delete_at(0)
+    end
+
+    def get_gap
+        @gap = penalty["*"][alphabet.first].to_i
     end
 
     def get_matrix
