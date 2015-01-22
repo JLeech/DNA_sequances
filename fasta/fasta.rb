@@ -32,7 +32,6 @@ class Fasta
 
 	# основной метод
 	def cut_no_points
-		puts @data.sequances.length
 		@data.sequances.each_with_index do |seq, index|
 			diags_positions = []
 			limit_lines = []
